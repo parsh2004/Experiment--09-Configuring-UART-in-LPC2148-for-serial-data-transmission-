@@ -73,10 +73,10 @@ int main(void)
 
 # OUTPUT:
 ### BEFORE SIMULATION:
-![output](o1.png)
+![output](o1.jpeg)
 
 ### AFTER SIMULATION:
-![output](o2.png)
+![output](o2.jpeg)
 
 ### CIRCUIT DIAGRAM:
 ![output](o3.jpeg) 
